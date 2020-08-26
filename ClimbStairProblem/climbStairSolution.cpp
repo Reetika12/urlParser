@@ -12,7 +12,7 @@ int main()
     }
     long long int dp[100001]; // dp will store the possible ways to reach on each no of stair
     dp[0]=1;
-    long long int m=100000007,total;
+    long long int m=1000000007,total;
     for(int i=1;i<=100000;i++)
     {
         total=0;    // the total ways for each step

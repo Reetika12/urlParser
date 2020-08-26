@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After cloning the repo run the following command
 
-## Available Scripts
+### `npm install`
 
 In the project directory, you can run:
 
@@ -9,8 +9,4 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### just provide the input in RequiredComponent 
- see the result on web on (http://localhost:3000)
+### just provide the URL into the input field and click on search to get result
